@@ -1,0 +1,63 @@
+
+body{
+background-image: url(dog.jpg);
+background-repeat: no-repeat;
+background-size:contain;
+overflow: scroll;
+}
+
+.u1{
+    word-spacing: 200px;
+    background-color: aqua;
+}
+.l1{
+    display: inline;
+    list-style-type:none;
+}
+.l2{
+    display: inline;
+    list-style-type:none;
+  
+}
+.l3{
+    display: inline;
+    list-style-type:none;
+  
+}
+.l4{
+    display: inline;
+    list-style-type:none;
+}
+.d1{
+    text-align: center;
+   
+}
+.imag1{
+    margin-top: 450px;
+}
+.imag2{
+    margin-left: 950px;
+}
+.f1{
+    text-align: center;
+    background-color: darkgray;
+    border: 20px solid white;
+    border-radius: 50px;
+    color: rgb(10, 10, 10);
+    border-width: 300px;
+    
+}
+input{
+border: none;
+border-bottom: 1px solid black;
+outline:none;
+cursor: pointer;}
+.button1{
+    cursor: pointer;
+}
+.footer1{
+    text-align: center;
+    color: black;
+}
+
+

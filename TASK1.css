@@ -1,0 +1,15 @@
+.head{
+    outline-style:groove;
+    outline-width: 5px;
+    outline-color: crimson;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+
+}
+.para{
+    outline-style: outset;
+    outline-width:5px;
+    outline-color: gold;
+}
